@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWVLVUGQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for stm8s105s4_pcb\Design Rule Check - Main.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
