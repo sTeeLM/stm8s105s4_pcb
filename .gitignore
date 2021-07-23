@@ -53,6 +53,8 @@ dkms.conf
 
 *.SchDoc.Zip
 *.PcbDoc.Zip
+*.PcbLib.Zip
+*.SchLib.Zip
 *.LOG
 
 
