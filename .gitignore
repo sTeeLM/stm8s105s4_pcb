@@ -51,10 +51,12 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# Backup files
 *.SchDoc.Zip
 *.PcbDoc.Zip
 *.PcbLib.Zip
 *.SchLib.Zip
+*.PrjPcb.Zip
 *.LOG
 
 
