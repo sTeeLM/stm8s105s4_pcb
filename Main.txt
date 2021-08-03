@@ -1,31 +1,31 @@
 Board Information Report
 Filename     : \\vmware-host\Shared Folders\обть\stm8s105s4_pcb\Main.PcbDoc
-Date         : 2021/7/23
-Time         : 14:00:11
+Date         : 2021/8/3
+Time         : 13:54:35
 Time Elapsed : 00:00:01
 
 General
-    Board Size, 67.34mmx26.67mm
-    Components on board, 23
+    Board Size, 52.197mmx24.13mm
+    Components on board, 22
 count : 2
 
 Routing Information
     Routing completion, 100.00%
-    Connections, 93
-    Connections routed, 93
+    Connections, 91
+    Connections routed, 91
     Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 88, 0, 312, 0, 0, 176, 0
-    Bottom Layer, 0, 0, 0, 63, 0, 0, 31, 0
-    Mechanical 1, 8, 0, 0, 0, 0, 0, 0, 0
-    Mechanical 13, 1, 0, 0, 52, 0, 0, 0, 23
-    Mechanical 15, 15, 0, 0, 40, 0, 0, 1, 0
-    Multi-Layer, 0, 48, 15, 0, 0, 0, 9, 0
+    Top Layer, 4, 86, 0, 309, 0, 0, 171, 0
+    Bottom Layer, 1, 0, 0, 90, 0, 0, 54, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 1, 0, 0, 48, 0, 0, 0, 22
+    Mechanical 15, 14, 0, 0, 38, 0, 0, 0, 0
+    Multi-Layer, 0, 48, 21, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 2, 0, 0, 137, 91, 0, 0, 0
-    Top Solder, 4, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 2, 0, 0, 131, 89, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 1, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 15, 18, 0, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
@@ -35,21 +35,21 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
 count : 15
 
 Drill Pairs, Vias
-    Top Layer - Bottom Layer, 15
+    Top Layer - Bottom Layer, 21
 count : 1
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 1.852, 1194.74, 67%
-    Bottom Layer, 2.148, 1385.595, 77%
+    Top Layer, 1.212, 782.098, 62%
+    Bottom Layer, 1.433, 924.488, 73%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias
 count : 0
 
 Plated Hole Size, Pads, Vias
-    0mm, 88, 0
+    0mm, 86, 0
     0.5mm, 2, 0
-    0.7112mm, 0, 15
+    0.7112mm, 0, 21
     0.9mm, 44, 0
 count : 4
 
@@ -68,7 +68,7 @@ count : 0
 
 Top Layer Annular Ring Size, Count
     0.3mm, 2
-    0.5588mm, 15
+    0.5588mm, 21
     0.6mm, 40
     0.8mm, 4
     1mm, 2
@@ -76,7 +76,7 @@ count : 5
 
 Mid Layer Annular Ring Size, Count
     0.3mm, 2
-    0.5588mm, 15
+    0.5588mm, 21
     0.6mm, 40
     0.8mm, 4
     1mm, 2
@@ -84,85 +84,88 @@ count : 5
 
 Bottom Layer Annular Ring Size, Count
     0.3mm, 2
-    0.5588mm, 15
+    0.5588mm, 21
     0.6mm, 40
     0.8mm, 4
     1mm, 2
 count : 5
 
 Pad Solder Mask, Count
-    0.1016mm, 136
+    0.1016mm, 134
 count : 1
 
 Pad Paste Mask, Count
-    0mm, 136
+    0mm, 134
 count : 1
 
 Pad Pwr/Gnd Expansion, Count
-    0.508mm, 136
+    0.508mm, 134
 count : 1
 
 Pad Relief Conductor Width, Count
-    0.254mm, 136
+    0.254mm, 134
 count : 1
 
 Pad Relief Air Gap, Count
-    0.254mm, 136
+    0.254mm, 134
 count : 1
 
 Pad Relief Entries, Count
-    4, 136
+    4, 134
 count : 1
 
 Via Solder Mask, Count
-    0.1016mm, 15
+    0.1016mm, 21
 count : 1
 
 Via Pwr/Gnd Expansion, Count
-    0.508mm, 15
+    0.508mm, 21
 count : 1
 
 Track Width, Count
-    0.01mm, 48
-    0.05mm, 30
+    0.01mm, 44
+    0.05mm, 28
     0.1mm, 22
     0.127mm, 4
     0.1524mm, 6
     0.1778mm, 4
     0.2mm, 10
-    0.2032mm, 87
-    0.254mm, 412
+    0.2032mm, 81
+    0.254mm, 436
 count : 9
 
 Arc Line Width, Count
-    0.05mm, 15
-    0.1mm, 9
-    0.254mm, 2
-    1.4mm, 4
-count : 4
+    0.05mm, 14
+    0.1mm, 1
+    0.254mm, 7
+count : 3
 
 Arc Radius, Count
     0.0254mm, 1
     0.0762mm, 1
     0.254mm, 1
-    0.35mm, 15
-    1.5mm, 4
-    2.2mm, 4
-    2.9mm, 4
+    0.254mm, 2
+    0.35mm, 14
+    1.131mm, 2
+    1.231mm, 1
 count : 7
 
 Arc Degrees, Count
-    360, 30
-count : 1
+    0, 2
+    1, 1
+    69, 1
+    88, 1
+    360, 17
+count : 5
 
 Text Height, Count
     0.8128mm, 1
-    1.524mm, 109
+    1.524mm, 107
 count : 2
 
 Text Width, Count
     0.1524mm, 1
-    0.254mm, 109
+    0.254mm, 107
 count : 2
 
 Net Track Width, Count
